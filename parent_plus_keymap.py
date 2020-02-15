@@ -40,10 +40,8 @@ class PARENT_PLUS_KeyMap:
 
 
 def register():
-    # register_class(SUP_MT_ex_menu)
     PARENT_PLUS_KeyMap.register(context=bpy.context)
 
 
 def unregister():
     PARENT_PLUS_KeyMap.unregister()
-    # unregister_class(SUP_MT_ex_menu)
