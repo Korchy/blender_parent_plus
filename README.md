@@ -27,7 +27,7 @@ Current add-on version:
 
 Blender versions:
 -
-2.81, 2.82
+2.81, 2.82, 2.83, 2.90
 
 Location and call:
 -
